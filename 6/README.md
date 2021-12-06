@@ -11,3 +11,4 @@ it would be easier to just track categories of fish. Fish can be in only one of 
 being the number of days until spawn so we only need to check and update 9 elements each round
 and can count how many of each fish are at that stage.
 
+For part 2 I don't know why I used a dict when a list would have been fine
