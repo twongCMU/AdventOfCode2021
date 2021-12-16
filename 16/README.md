@@ -1,0 +1,5 @@
+# Day 16
+
+Again the slightly more difficult problems expose my poor coding ability! I had a lot of trouble understanding all of the rules of this one. In particular I didn't realize the subpackets were full packets with headers. I assumed since they were literals that the header wasn't needed. Once I actually understood the parsing strategy it all fell into place and I reorganized my code to parse the packet data recursively. The first part took 1:13:56 due to all of the complications but then part 2 was pretty straightforward to implement each of the operators and it took me only 16:10 on top of that.
+
+I used recursion for the first time; I usually prefer iterative solutions. Overall the hardest part of this today's problem was understanding what they were describing; coding was not too bad. This means it's less interesting because the coding is the fun part
