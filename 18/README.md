@@ -1,0 +1,5 @@
+# Day 18
+
+This was a doozy. The problem was complex and it took a long time to even understand the problem. Once I had that I couldn't decide how to store the data. I first though I could just keep it as a string and have an index that moves around but the problem is that numbers can be one or two characters long. I then wrote a stack since the nested nature of the data seemed like it would suit a stack well. In the end I used a simple list to store the string broken apart by token, "[" and "," and "]" and <number>. This allowed me to easily move around the data structure and add or remove things. Part 1 took a long time to implement since there was a datastructure, explode and split actions, then the summing task.
+
+Part 2 was easy because I had all of the functions I needed so I just used itertools to generate all permutations
