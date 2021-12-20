@@ -1,0 +1,3 @@
+# 20
+
+A nice reprieve after 2 nights of tough problems. (As of this writing I haven't finished even part 1 of day 19). This style of problem is common to AoC so I knew what to do. Unfortunately my solution was plaged with bugs. I mixed up the usage of True/False and ./# in different places, getting stuck on truth checks on ./# I also had a mistake where I was updating the graph with the new data in the wrong indentation level so it was updating after the first row rather than after processing the whole graph. Still, I enjoyed solving this one.
