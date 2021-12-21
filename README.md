@@ -6,6 +6,7 @@ A day with a * in front of it means I didn't start it right when it was released
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 21   00:26:10   2761      0   01:56:00   2677      0
  20   00:54:47   1889      0   01:01:17   1877      0
  19t      >24h  10686      0       >24h  10416      0
  18   02:20:35   1878      0   02:28:01   1830      0
@@ -27,5 +28,5 @@ Day       Time   Rank  Score       Time   Rank  Score
  *2   01:25:47  17868      0   01:28:32  16730      0
  *1   01:31:09  12457      0   01:35:36  11016      0
 
-t Part 1inished about 4:45pm Dec 20 after about 10 hours of total work. Part 2 finished 6 minutes after that.
+t: Part 1inished about 4:45pm Dec 20 after about 10 hours of total work. Part 2 finished 6 minutes after that.
 ```
