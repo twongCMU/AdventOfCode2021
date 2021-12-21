@@ -1,0 +1,5 @@
+ # Day 20
+
+This one was really hard. I don't have much background in 3d algorithms or math so part one ended up taking me almost 10 hours of work to solve with part 2 coming 6 minutes later. I tried to take a shortcut with part 1 where I find the duplicates between the scanners and subtract them from the total number of points seen. This worked for the demo answer but not for my input data, presumably because there might be other duplicates that between scanners that aren't known.
+
+Eventually I had to just implement the full solution, which in some ways worked out since part 2 required the locations of the scanners anyway. I wouldn't say I enjoyed this problem given its complexity relative to my knowledge base but also since it seemed like it was complex with only a single way to solve it. I am, however, proud that I got the answer without looking it up.
