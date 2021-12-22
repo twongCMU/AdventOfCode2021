@@ -30,5 +30,5 @@ Day       Time   Rank  Score       Time   Rank  Score
  *1   01:31:09  12457      0   01:35:36  11016      0
 
 i: Part 1 finished about 4:45pm Dec 20 after about 10 hours of total work. Part 2 finished 6 minutes after that.
-j: Finished Part 2 the next day. It was difficult.
+j: Finished Part 2 after sleeping on it. Took about 9 hours of total work
 ```
