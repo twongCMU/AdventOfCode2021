@@ -6,6 +6,7 @@ A day with a * in front of it means I didn't start it right when it was released
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 23   01:46:40   1614      0   02:06:15    637      0
  22j  00:23:00   1963      0   17:54:12   7947      0
  21   00:26:10   2761      0   01:56:00   2677      0
  20   00:54:47   1889      0   01:01:17   1877      0
