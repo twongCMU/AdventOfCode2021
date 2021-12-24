@@ -6,6 +6,7 @@ A day with a * in front of it means I didn't start it right when it was released
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 24k   15:18:01   4774      0   15:20:30   4626      0
  23   01:46:40   1614      0   02:06:15    637      0
  22j  00:23:00   1963      0   17:54:12   7947      0
  21   00:26:10   2761      0   01:56:00   2677      0
@@ -30,6 +31,7 @@ Day       Time   Rank  Score       Time   Rank  Score
  *2   01:25:47  17868      0   01:28:32  16730      0
  *1   01:31:09  12457      0   01:35:36  11016      0
 
+k: Finished after sleeping. Took maybe 6 hours. I looked at spoilers about 5 hours in that hinted at what the program did then worked out the solution from that
 i: Part 1 finished about 4:45pm Dec 20 after about 10 hours of total work. Part 2 finished 6 minutes after that.
 j: Finished Part 2 after sleeping on it. Took about 9 hours of total work
 ```

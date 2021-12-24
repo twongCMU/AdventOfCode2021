@@ -1,0 +1,7 @@
+# Day 24
+
+I didn't enjoy this one, but it was appropriate for the final major day of AoC. The obvious first step was to implement the ALU instruction set. This turned out to be completely useless. I tried using it to inspect the register states though various inputs. I looked at the z register's output after running thinking it might give a hint like the distance to the value or some kind of Mastermind-like clue but that was not the case.
+
+After about 4 hours of making no progress I started looking at the input instructions themselves but I couldn't understand what it was doing. z seemed to increase constantly without any way to reduce it. I ended up looking at spoilers and found an explanation that the input instructions formed a stack. I didn't understand this well enough to use any of the information but it did tell me that looking at the input instructions was the correct path and not the z register inspection I was doing earlier.
+
+I realized that of the 14 digits, 7 of them could be controlled and the other 7 were forced based on the register states. My solution was to manually work out everything the input program was doing, write a Python program that recreated the steps, then brute force the 7 digits that can be controlled. For this day, solution.py and alu.py ended up being completely useless and the correct solution came from solver.py
